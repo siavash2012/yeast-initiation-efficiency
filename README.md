@@ -17,7 +17,7 @@ by David E. Weinberg *et al.* (Cell Reports, 2016)
 
 ## Dataset
 
-Ensure that file paths in the notebooks match your local environment. Download and extract the following files into a suitable directory (e.g., `data/`):
+Ensure that file paths in the notebooks match your local environment. Download and extract the following files into a suitable directory:
 
 From [GEO accession GSE75897](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE75897):
 
